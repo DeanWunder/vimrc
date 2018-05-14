@@ -34,3 +34,7 @@ nnoremap <silent> <C-l> :nohl<CR><C-l>
 
 colorscheme elflord
 
+" stop swapfiles from appearing in working directories.
+set swapfile
+set dir=/tmp
+set runtimepath^=~/.vim/bundle/vim-minisnip
