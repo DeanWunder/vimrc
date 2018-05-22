@@ -4,6 +4,7 @@ set scrolloff=999
 set nu
 set autoindent
 " typing <TAB> is just four spaces
+set expandtab
 set tabstop=4
 
 set backspace=indent,eol,start
